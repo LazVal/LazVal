@@ -14,5 +14,5 @@
 </p>
 </div>
 <div align="center">
- <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=fff&width=250&lines=Welcome+to+my+page!+%3A)" alt="Typing SVG" /></a>
+ <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=fff&width=255&lines=Welcome+to+my+page!+%3A)" alt="Typing SVG" /></a>
  </div>
