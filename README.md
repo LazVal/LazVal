@@ -12,5 +12,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </p>
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=fff&width=550&lines=Welcome+to+my+page+!+%3A)" alt="Typing SVG" /></a>
 </div>
+<div align="center">
+ <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=fff&width=550&lines=Welcome+to+my+page!+%3A)" alt="Typing SVG" /></a>
+ </div>
